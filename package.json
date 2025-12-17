@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-easy-crop": "^5.2.0",
+    "react-scroll-to-bottom": "^4.2.0",
+    "react-spinners": "^0.14.1",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5"
+  }
+}
