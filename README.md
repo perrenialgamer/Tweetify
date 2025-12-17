@@ -25,7 +25,7 @@ engage in real time debates.
 ## Installation
 ### Clone this repository:
 ```bash
-git clone https://github.com/ayushgit12/Tweetify.git
+git clone https://github.com/perrenialgamer/Tweetify.git
 ```
 
 ### Install dependencies:
@@ -54,6 +54,7 @@ npm run dev
 ```
 
 This will start both the backend server and the frontend development server. You can access the application at http://localhost:5173 in your web browser.
+
 
 
 
